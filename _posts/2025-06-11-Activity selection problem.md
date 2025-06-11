@@ -4,9 +4,9 @@ Activity Selection Problem
 Deskripsi Singkat Activity Selection Problem (ASP) adalah masalah klasik dalam ilmu komputer yang bertujuan untuk memilih serangkaian aktivitas yang dapat dilakukan dalam satu periode waktu, dengan batasan bahwa aktivitas-aktivitas tersebut tidak boleh tumpang tindih.
 
 Konsep Utama 
-• Termasuk dalam kategori Greedy Algorithm 
-• Strategi: selalu pilih aktivitas yang selesai paling awal 
-• Cocok untuk masalah penjadwalan yang efisien
+- Termasuk dalam kategori Greedy Algorithm 
+- Strategi: selalu pilih aktivitas yang selesai paling awal 
+- Cocok untuk masalah penjadwalan yang efisien
 
 Konsep Algoritma Greedy Greedy Algorithm adalah pendekatan pemecahan masalah yang membuat keputusan terbaik atau optimal pada setiap langkah, dengan harapan bahwa keputusan-keputusan lokal yang optimal ini akan menghasilkan solusi yang global optimal. Dalam konteks Activity Selection Problem, algoritma greedy secara efektif diterapkan dengan memilih aktivitas yang memiliki waktu selesai paling awal di setiap langkah.
 
